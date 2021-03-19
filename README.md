@@ -5,7 +5,7 @@ It features changes like:
 
 -having all warps unlocked and both abilities at the start
 
--triggers for boss fights and key areas are visible
+-visuals for boss fights skips and key tricks are visible
 
 -the ability to reset levels back into an almost-original state
 
