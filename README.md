@@ -3,13 +3,13 @@ A Practice Mod for the Xbox version of Battle for Bikini Bottom.
 
 # Features
 
-having all warps unlocked and both abilities at the start
+-having all warps unlocked and both abilities at the start
 
-visuals for boss fight skips, as well as visuals for key tricks
+-visuals for boss fight skips, as well as visuals for key tricks
 
-the ability to reset levels back into an almost-original state
+-the ability to reset levels back into an almost-original state
 
-tricks are much easier and faster to practice with
+-tricks are much easier and faster to practice with
 
 and more!
 
