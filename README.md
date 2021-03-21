@@ -23,6 +23,10 @@ Extract the zip, paste the files over **an unmodified xbox copy of the game** (c
 
 -No Bubbles on Loading Screens, this can be fixed by returning to the main menu then loading ingame.
 
+
+
+
+
 ## Support Me 
 If you would like to support me, you can send me money on paypal. It is **entirely optional** and not required. 
 
