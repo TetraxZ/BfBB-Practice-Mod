@@ -19,3 +19,8 @@ and more!
 -Pressing a reset level button with a textbox on screen (character, press R, yellow text, etc) will crash the game.
 
 -No Bubbles on Loading Screens, this can be fixed by returning to the main menu then loading ingame.
+
+#### Support Me 
+If you would like to support me, you can send me money on paypal. It is **entirely optional** and not required. 
+
+Any amount is appreciated :) https://www.paypal.me/TetraxZ
