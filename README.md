@@ -17,9 +17,9 @@ Extract the zip, paste the files over **an unmodified xbox copy of the game** (c
 
 # Known Issues
 
- Pressing a reset level button with a textbox on screen (character, press R, yellow text, etc) will crash the game.
+- Pressing a reset level button with a textbox on screen (character, press R, yellow text, etc) will crash the game.
 
- Pressing Start doesn't unpause the game.   Yeah idk why this doesn't work I'm blaming Heavy Iron
+- Pressing Start doesn't unpause the game.   Yeah idk why this doesn't work I'm blaming Heavy Iron
 
 
 
