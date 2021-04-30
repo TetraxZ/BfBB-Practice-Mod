@@ -3,13 +3,11 @@ A Practice Mod for the Xbox version of Battle for Bikini Bottom.
 
 # Features
 
--having all warps unlocked and both abilities at the start
+- having all warps unlocked and both abilities at the start
 
--visuals for boss fight skips, as well as visuals for key tricks
+- visuals for boss fight skips, as well as visuals for key tricks
 
--the ability to reset levels back into an almost-original state
-
--tricks are much easier and faster to practice with
+- tricks are much easier and faster to practice and retry
 
 and more!
 
@@ -19,9 +17,9 @@ Extract the zip, paste the files over **an unmodified xbox copy of the game** (c
 
 # Known Issues
 
--Pressing a reset level button with a textbox on screen (character, press R, yellow text, etc) will crash the game.
+ Pressing a reset level button with a textbox on screen (character, press R, yellow text, etc) will crash the game.
 
--Pressing Start doesn't unpause the game.   Yeah idk why this doesn't work I'm blaming Heavy Iron
+ Pressing Start doesn't unpause the game.   Yeah idk why this doesn't work I'm blaming Heavy Iron
 
 
 
