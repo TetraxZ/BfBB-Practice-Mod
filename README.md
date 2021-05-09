@@ -20,7 +20,8 @@ Extract the zip, paste the files over **an unmodified xbox copy of the game** (c
 - Pressing a reset level button with a textbox on screen (character, press R, yellow text, etc) will crash the game.
     - Saving on intial state of level (before anything is touched) and reloading is suggested as reset buttons don't reset everything properly.
 
-- Pressing Start doesn't unpause the game.   Yeah idk why this doesn't work I'm blaming Heavy Iron
+- Pressing Start doesn't unpause the game, Unplugging controller doesn't bring up the screen
+    - I'm blaming Heavy Iron for this, a way to fix this is replace MNU3.HIP and MNU4.HIP with the original ones
 
 
 
