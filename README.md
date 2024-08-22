@@ -26,7 +26,8 @@ Extract the zip, paste the files over **an unmodified xbox copy of the game** (c
 - Reset buttons don't exist anymore or don't function properly.
     - My method of resetting levels is very janky so most buttons were removed until they work properly. Use the AutoCB mod which has a built-in reset function. (Keep Flags Off)
 
-
+- Pressing B after pressing A to start a taxi warp on the menu closes the menu entirely instead of backing up.
+    - This is an issue with custom levels for all mods of the game, unfortunately not sure how to fix.
 
 ## Support Me 
 If you would like to support me, you can send me money on paypal. It is **entirely optional** and not required. Any supporters will be added to the credits ingame when using the mod.
